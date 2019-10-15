@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.list-style {
+  text-align: left;
+}
+
+.movies-list-item {
+  width: 400px;
+  border: 1px black solid;
+  padding: 10px;
+  cursor: pointer;
+  margin: 5px auto;
+}
